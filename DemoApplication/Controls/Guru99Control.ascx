@@ -10,6 +10,6 @@
 	</tr>
 	
 	<tr>
-	  <td> This Tutorial is for</td>
+	  <td><%=clients %></td>
 	</tr>
 </table>

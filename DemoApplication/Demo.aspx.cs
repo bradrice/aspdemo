@@ -6,7 +6,6 @@ namespace DemoApplication
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
         }
 
         protected void ListBox1_SelectedIndexChanged(object sender,
